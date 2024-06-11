@@ -38,10 +38,7 @@ Before you get started, ensure you have the following installed:
 Here are some Images of My Projects 
 
 # Chat Screen
-<details>
-  <summary>Chat Screen</summary>
-  <img src="Screenshots/ss/jpeg" alt="Chat Screen">
-</details>
+![Alt text](Screenshots/ss.jpeg)
 
 
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
